@@ -1,7 +1,7 @@
 .PHONY: all clean
 
 CXXFLAGS:=-fopenmp -Wall -Wextra -O2
-LIBS:=-pthread
+LIBS:=
 #LIBS += -lgmp -lgmpxx
 
 all: det
