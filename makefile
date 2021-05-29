@@ -2,7 +2,6 @@
 
 CXXFLAGS:=-fopenmp -Wall -Wextra -O2
 LIBS:=
-#LIBS += -lgmp -lgmpxx
 
 all: det
 

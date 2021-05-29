@@ -1,4 +1,3 @@
-//#include <gmpxx.h>
 #include <utility>
 #include <iostream>
 #include <cstdint>
