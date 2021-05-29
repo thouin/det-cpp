@@ -1,6 +1,4 @@
 #include <cassert>
-#include <utility>
-#include <cstddef>
 #include <climits>
 
 #include "det.hpp"

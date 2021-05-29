@@ -1,10 +1,4 @@
-#include <algorithm>
-#include <numeric>
-#include <functional>
-#include <iostream>
 #include <mutex>
-
-#include <omp.h>
 
 #include "det.hpp"
 

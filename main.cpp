@@ -1,9 +1,4 @@
-#include <utility>
-#include <iostream>
-#include <cstdint>
-
 #include "det.hpp"
-
 
 std::size_t pairToIndex(std::pair<std::size_t, std::size_t> p) {
 	if (p.first > p.second) std::swap(p.first, p.second);
